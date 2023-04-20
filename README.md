@@ -1,1 +1,1 @@
-# 04-chaining-selectors
+In this exercise, I practiced adding CSS chaining selectors to images. This is an exercise from The Odin Project for CSS.
